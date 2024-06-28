@@ -6,6 +6,9 @@ Trước khi chạy chương trình, xin lưu ý hãy chắc chắn rằng đã 
 Hãy để các file 'blind_search_engine.py' và 'interface.py' nằm trong cùng thư mục với file "saved_data" để chương trình có thể đọc được các dữ liệu pretrain của chúng.
 
 
-Chạy file 'interface.py' để xem sản phẩm
+Chạy file 'interface.py' đợi 1 lúc và gõ 'streamlit run [path đến interface.py]' vào terminal (không có dẫu goặc vuông [] ) để chạy sản phẩm.
+Hoặc, mở cmd và gõ 'streamlit run [path đến interface.py]' để chạy sản phẩm ngay lập tức
 
 import file 'blind_search_engine' để sử dụng search mà không cần thông qua interface.
+
+
